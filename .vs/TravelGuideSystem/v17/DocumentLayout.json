@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E45FCA04-03D4-4ADD-A4A7-A8AE5FF22FD2}|Domain\\Domain.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\domain\\model\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45FCA04-03D4-4ADD-A4A7-A8AE5FF22FD2}|Domain\\Domain.csproj|solutionrelative:domain\\model\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48A68E7-2640-47DA-95E9-CACA575963AE}|Presentation\\Presentation.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\presentation\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48A68E7-2640-47DA-95E9-CACA575963AE}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E386C7E-2E3F-4903-A93D-87B4201118D8}|Application\\Application.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\application\\service\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E386C7E-2E3F-4903-A93D-87B4201118D8}|Application\\Application.csproj|solutionrelative:application\\service\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E386C7E-2E3F-4903-A93D-87B4201118D8}|Application\\Application.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\application\\interface\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E386C7E-2E3F-4903-A93D-87B4201118D8}|Application\\Application.csproj|solutionrelative:application\\interface\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48A68E7-2640-47DA-95E9-CACA575963AE}|Presentation\\Presentation.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F48A68E7-2640-47DA-95E9-CACA575963AE}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48A68E7-2640-47DA-95E9-CACA575963AE}|Presentation\\Presentation.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48A68E7-2640-47DA-95E9-CACA575963AE}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E386C7E-2E3F-4903-A93D-87B4201118D8}|Application\\Application.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\application\\mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E386C7E-2E3F-4903-A93D-87B4201118D8}|Application\\Application.csproj|solutionrelative:application\\mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1C7923-FCB2-48EB-8771-5FD0E1CED189}|Infrastructure\\Infrastructure.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\infrastructure\\context\\tgscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1C7923-FCB2-48EB-8771-5FD0E1CED189}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\tgscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E386C7E-2E3F-4903-A93D-87B4201118D8}|Application\\Application.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E386C7E-2E3F-4903-A93D-87B4201118D8}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E386C7E-2E3F-4903-A93D-87B4201118D8}|Application\\Application.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\application\\dtos\\destination\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E386C7E-2E3F-4903-A93D-87B4201118D8}|Application\\Application.csproj|solutionrelative:application\\dtos\\destination\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1C7923-FCB2-48EB-8771-5FD0E1CED189}|Infrastructure\\Infrastructure.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\infrastructure\\repository\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1C7923-FCB2-48EB-8771-5FD0E1CED189}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1C7923-FCB2-48EB-8771-5FD0E1CED189}|Infrastructure\\Infrastructure.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1C7923-FCB2-48EB-8771-5FD0E1CED189}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1C7923-FCB2-48EB-8771-5FD0E1CED189}|Infrastructure\\Infrastructure.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\infrastructure\\repository\\comon\\baserepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1C7923-FCB2-48EB-8771-5FD0E1CED189}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\comon\\baserepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E386C7E-2E3F-4903-A93D-87B4201118D8}|Application\\Application.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\application\\interface\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E386C7E-2E3F-4903-A93D-87B4201118D8}|Application\\Application.csproj|solutionrelative:application\\interface\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1C7923-FCB2-48EB-8771-5FD0E1CED189}|Infrastructure\\Infrastructure.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\infrastructure\\configuration\\destinationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D1C7923-FCB2-48EB-8771-5FD0E1CED189}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configuration\\destinationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D1C7923-FCB2-48EB-8771-5FD0E1CED189}|Infrastructure\\Infrastructure.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D1C7923-FCB2-48EB-8771-5FD0E1CED189}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E386C7E-2E3F-4903-A93D-87B4201118D8}|Application\\Application.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\application\\interface\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E386C7E-2E3F-4903-A93D-87B4201118D8}|Application\\Application.csproj|solutionrelative:application\\interface\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E386C7E-2E3F-4903-A93D-87B4201118D8}|Application\\Application.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\application\\interface\\service\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E386C7E-2E3F-4903-A93D-87B4201118D8}|Application\\Application.csproj|solutionrelative:application\\interface\\service\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E386C7E-2E3F-4903-A93D-87B4201118D8}|Application\\Application.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\application\\interface\\repository\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E386C7E-2E3F-4903-A93D-87B4201118D8}|Application\\Application.csproj|solutionrelative:application\\interface\\repository\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45FCA04-03D4-4ADD-A4A7-A8AE5FF22FD2}|Domain\\Domain.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\domain\\model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45FCA04-03D4-4ADD-A4A7-A8AE5FF22FD2}|Domain\\Domain.csproj|solutionrelative:domain\\model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45FCA04-03D4-4ADD-A4A7-A8AE5FF22FD2}|Domain\\Domain.csproj|c:\\users\\acer\\downloads\\hn25_fr_js_.net_01\\repo\\travelguidesystem\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E45FCA04-03D4-4ADD-A4A7-A8AE5FF22FD2}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAewBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:45:43.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-29T03:04:03.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DestinationController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Presentation\\Controllers\\DestinationController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\DestinationController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Presentation\\Controllers\\DestinationController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\DestinationController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwvz4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:54:38.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Application\\Interface\\Service\\IService.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\Service\\IService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Application\\Interface\\Service\\IService.cs",
+              "RelativeToolTip": "Application\\Interface\\Service\\IService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:01:27.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Application\\Service\\DestinationService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\DestinationService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Application\\Service\\DestinationService.cs",
+              "RelativeToolTip": "Application\\Service\\DestinationService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:28:24.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Domain\\Model\\Destination.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Destination.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Domain\\Model\\Destination.cs",
+              "RelativeToolTip": "Domain\\Model\\Destination.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T02:53:20.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Application\\Mapping\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mapping\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Application\\Mapping\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Application\\Mapping\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAArwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:33:34.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TGSContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Infrastructure\\Context\\TGSContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\TGSContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Infrastructure\\Context\\TGSContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\TGSContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:13:48.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-27T15:12:27.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DestinationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Application\\DTOs\\Destination\\DestinationDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Destination\\DestinationDTO.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Application\\DTOs\\Destination\\DestinationDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\Destination\\DestinationDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:35:54.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Infrastructure\\Repository\\DestinationRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\DestinationRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Infrastructure\\Repository\\DestinationRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\DestinationRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:22:30.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAvwBMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:24:53.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Infrastructure\\Repository\\Comon\\BaseRepostory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\Comon\\BaseRepostory.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Infrastructure\\Repository\\Comon\\BaseRepostory.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\Comon\\BaseRepostory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:16:27.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DestinationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Infrastructure\\Configuration\\DestinationConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configuration\\DestinationConfiguration.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Infrastructure\\Configuration\\DestinationConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configuration\\DestinationConfiguration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:12:24.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-30T03:06:24.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Application\\Interface\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Application\\Interface\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Application\\Interface\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T02:57:02.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Application\\Interface\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Application\\Interface\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "Application\\Interface\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:02:19.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Application\\Interface\\Service\\IDestinationService.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\Service\\IDestinationService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Application\\Interface\\Service\\IDestinationService.cs",
+              "RelativeToolTip": "Application\\Interface\\Service\\IDestinationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T03:00:27.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Application\\Interface\\Repository\\IDestinationRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\Repository\\IDestinationRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Application\\Interface\\Repository\\IDestinationRepository.cs",
+              "RelativeToolTip": "Application\\Interface\\Repository\\IDestinationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T02:59:03.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Domain\\Model\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Domain\\Model\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Model\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T02:54:29.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\HN25_FR_JS_.NET_01\\repo\\TravelGuideSystem\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-27T15:19:12.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
