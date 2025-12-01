@@ -6,3 +6,7 @@
 Application/bin
 Domain/bin
 Infrastructure/bin
+Application/obj
+Infrastructure/obj
+Presentation/bin
+Presentation/obj

@@ -1,0 +1,13 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+@host = http://localhost:5000
+
+### Login Request
+POST {{host}}/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "datforitwork@gmail.com",
+  "password": "123456"
+}
+
+
