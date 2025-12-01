@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Interface.Service
+namespace Application.Service.Interface
 {
     public interface IAuthenticationService
     {

@@ -1,5 +1,5 @@
 ﻿using Application.DTOs.Customer;
-using Application.Interface.Service;
+using Application.Service.Interface;
 using AutoMapper;
 using Domain.Model;
 using Microsoft.AspNetCore.Mvc;

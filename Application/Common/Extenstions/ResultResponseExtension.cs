@@ -15,7 +15,7 @@ namespace Application.Common.Extenstions
         {
             if(data is null)
             {
-                return Result.Fail(new NotFoundError("User not found, please Register"));
+                return Result.Fail(new NotFoundError(message));
             }
 
             return Result.Ok(data);

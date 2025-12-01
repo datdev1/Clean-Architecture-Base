@@ -1,7 +1,9 @@
-using Application.Interface.Service;
 using Application.Mapping;
-using Application.Service;
+using Application.Service.Implementation;
+using Application.Service.Interface;
+using Application.Validators.Authentication;
 using AutoMapper;
+using FluentValidation;
 using Infrastructure.Context;
 using Infrastructure.Interface.UnitOfWork;
 using Infrastructure.UnitOfWork;
@@ -26,6 +28,8 @@ builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IAuthenticationService, AuthenticationService>();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+builder.Services.AddValidatorsFromAssemblyContaining<CustomerRegisterValidator>();
+
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
