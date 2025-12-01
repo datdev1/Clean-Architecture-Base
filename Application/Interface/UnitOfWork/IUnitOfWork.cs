@@ -11,6 +11,8 @@ namespace Application.Interface.UnitOfWork
     {
         IDestinationRepository Destinations { get; }
 
+        ICustomerRepository Customers { get; }
+
         Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
     }
 }

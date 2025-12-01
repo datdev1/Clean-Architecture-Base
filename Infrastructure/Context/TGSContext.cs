@@ -19,9 +19,11 @@ namespace Infrastructure.Context
         {
             base.OnModelCreating(modelBuilder);
             modelBuilder.ApplyConfiguration(new DestinationConfiguration());
+            modelBuilder.ApplyConfiguration(new CustomerConfiguration());
         }
 
 
         public DbSet<Destination> Destinations { get; set; }
+        public DbSet<Customer> Customers { get; set; }
     }
 }

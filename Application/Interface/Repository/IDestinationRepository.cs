@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Application.Interface.Repository
 {
-    public interface IDestinationRepository : IRepository<Destination>
+    public interface IDestinationRepository : IBaseRepository<Destination>
     {
         Task<IEnumerable<Destination>> SearchByAddress(string address);
     }

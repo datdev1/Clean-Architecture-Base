@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Application.Interface.Service
 {
-    public interface IDestinationService : IService<Destination>
+    public interface IDestinationService : IBaseService<Destination>
     {
         Task<IEnumerable<Destination>> SearchByAddress(string address);
     }

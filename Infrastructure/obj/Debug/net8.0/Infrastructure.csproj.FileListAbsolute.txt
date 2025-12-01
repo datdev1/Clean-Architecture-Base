@@ -17,3 +17,4 @@ C:\Users\ACER\Downloads\HN25_FR_JS_.NET_01\repo\TravelGuideSystem\Infrastructure
 C:\Users\ACER\Downloads\HN25_FR_JS_.NET_01\repo\TravelGuideSystem\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
 C:\Users\ACER\Downloads\HN25_FR_JS_.NET_01\repo\TravelGuideSystem\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
 C:\Users\ACER\Downloads\HN25_FR_JS_.NET_01\repo\TravelGuideSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\ACER\Downloads\HN25_FR_JS_.NET_01\repo\TravelGuideSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json

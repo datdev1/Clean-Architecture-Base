@@ -9,3 +9,4 @@ C:\Users\ACER\Downloads\HN25_FR_JS_.NET_01\repo\TravelGuideSystem\Domain\obj\Deb
 C:\Users\ACER\Downloads\HN25_FR_JS_.NET_01\repo\TravelGuideSystem\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\ACER\Downloads\HN25_FR_JS_.NET_01\repo\TravelGuideSystem\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\ACER\Downloads\HN25_FR_JS_.NET_01\repo\TravelGuideSystem\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\ACER\Downloads\HN25_FR_JS_.NET_01\repo\TravelGuideSystem\Domain\obj\Debug\net8.0\Domain.sourcelink.json

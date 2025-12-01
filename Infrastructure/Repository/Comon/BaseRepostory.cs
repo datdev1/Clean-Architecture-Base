@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.Repository.Comon
 {
-    public class BaseRepostory<T> : IRepository<T> where T : class
+    public class BaseRepostory<T> : IBaseRepository<T> where T : class
     {
         protected readonly TGSContext _context;
 

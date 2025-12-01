@@ -18,9 +18,12 @@ namespace Infrastructure.UnitOfWork
         {
             _context = context;
             Destinations = new DestinationRepository(_context);
+            Customers = new CustomerRepository(_context);
         }
 
         public IDestinationRepository Destinations { get; }
+
+        public ICustomerRepository Customers { get; }
 
         public void Dispose()
         {

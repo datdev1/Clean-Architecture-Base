@@ -13,3 +13,4 @@ C:\Users\ACER\Downloads\HN25_FR_JS_.NET_01\repo\TravelGuideSystem\Application\ob
 C:\Users\ACER\Downloads\HN25_FR_JS_.NET_01\repo\TravelGuideSystem\Application\obj\Debug\net8.0\refint\Application.dll
 C:\Users\ACER\Downloads\HN25_FR_JS_.NET_01\repo\TravelGuideSystem\Application\obj\Debug\net8.0\Application.pdb
 C:\Users\ACER\Downloads\HN25_FR_JS_.NET_01\repo\TravelGuideSystem\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\ACER\Downloads\HN25_FR_JS_.NET_01\repo\TravelGuideSystem\Application\obj\Debug\net8.0\Application.sourcelink.json
