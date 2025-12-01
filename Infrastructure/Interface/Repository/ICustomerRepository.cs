@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Interface.Repository
+namespace Infrastructure.Interface.Repository
 {
     public interface ICustomerRepository : IBaseRepository<Customer>
     {

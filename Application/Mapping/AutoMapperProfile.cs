@@ -31,7 +31,7 @@ namespace Application.Mapping
                 .ForMember(dest => dest.Gender, 
                             opt => opt.MapFrom(src => src.Gender == "Male"));
 
-            CreateMap<Customer, CustomerDTO>()
+            CreateMap<Customer, CustomerViewDTO>()
                 .ForMember(dest => dest.FullName, 
                             opt => opt.MapFrom(src => $"{src.FirstName} {src.LastName}"))
                 .ForMember(dest => dest.Gender, 

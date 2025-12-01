@@ -1,6 +1,6 @@
-﻿using Application.Interface.Repository;
-using Domain.Model;
+﻿using Domain.Model;
 using Infrastructure.Context;
+using Infrastructure.Interface.Repository;
 using Infrastructure.Repository.Comon;
 using Microsoft.EntityFrameworkCore;
 using System;

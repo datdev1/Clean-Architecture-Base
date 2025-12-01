@@ -1,6 +1,6 @@
-﻿using Application.Interface.Repository;
-using Application.Interface.UnitOfWork;
-using Infrastructure.Context;
+﻿using Infrastructure.Context;
+using Infrastructure.Interface.Repository;
+using Infrastructure.Interface.UnitOfWork;
 using Infrastructure.Repository;
 using System;
 using System.Collections.Generic;

@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Application.Interface.Repository;
 using Domain.Model;
 using Infrastructure.Context;
+using Infrastructure.Interface.Repository;
 using Infrastructure.Repository.Comon;
 
 namespace Infrastructure.Repository

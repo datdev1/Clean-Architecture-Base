@@ -2,16 +2,11 @@
 using Application.Common.Extenstions;
 using Application.DTOs.Customer;
 using Application.Interface.Service;
-using Application.Interface.UnitOfWork;
 using AutoMapper;
 using Domain.Model;
 using FluentResults;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Text;
-using System.Threading.Tasks;
+using Infrastructure.Interface.UnitOfWork;
+
 
 namespace Application.Service
 {
@@ -51,14 +46,14 @@ namespace Application.Service
             return await _unitOfWork.Customers.GetAllAsync(pageIndex, pageSize);
         }
 
-        public async Task<Result<CustomerDTO>> GetByEmailAsync(string email)
+        public async Task<Result<CustomerViewDTO>> GetByEmailAsync(string email)
         {
             var customer = await _unitOfWork.Customers.GetByEmailAsync(email);
             if(customer == null)
             {
                 return Result.Fail(new NotFoundError("Customer not found"));
             }
-            return Result.Ok(_mapper.Map<CustomerDTO>(customer));
+            return Result.Ok(_mapper.Map<CustomerViewDTO>(customer));
         }
 
         public async Task<Customer?> GetByIdAsync(Guid id)
@@ -73,14 +68,14 @@ namespace Application.Service
 
 
 
-        public async Task<Result<CustomerDTO>> Login(CustomerLoginDTO loginDTO)
+        public async Task<Result<CustomerViewDTO>> Login(CustomerLoginDTO loginDTO)
         {
             var customerResult = (await _unitOfWork.Customers.GetByEmailAsync(loginDTO.Email))
                 .ToResultOrNotFound("User not found, please Register");
 
             if (customerResult.IsFailed)
             {
-                return Result.Fail<CustomerDTO>(customerResult.Errors);
+                return Result.Fail<CustomerViewDTO>(customerResult.Errors);
             }
 
             var customer = customerResult.Value;
@@ -91,15 +86,15 @@ namespace Application.Service
 
             if (!isPasswordValid)
             {
-                return Result.Fail<CustomerDTO>(new Error("Invalid email or password"));
+                return Result.Fail<CustomerViewDTO>(new Error("Invalid email or password"));
             }
 
             // 4. Nếu mật khẩu đúng -> Map sang DTO và trả về
-            var customerDto = _mapper.Map<CustomerDTO>(customer);
+            var customerDto = _mapper.Map<CustomerViewDTO>(customer);
             return Result.Ok(customerDto);
         }
 
-        public async Task<Result<CustomerDTO>> RegisterAsync(CustomerRegisterDTO registerDTO)
+        public async Task<Result<CustomerViewDTO>> RegisterAsync(CustomerRegisterDTO registerDTO)
         {
             var customerRsult = (await _unitOfWork.Customers.GetByEmailAsync(registerDTO.Email))
                     .ToResultOrNotFound("");
@@ -115,7 +110,7 @@ namespace Application.Service
             newCustomer.UpdatedAt = DateTime.Now;
             await _unitOfWork.Customers.AddAsync(newCustomer);
             await _unitOfWork.SaveChangesAsync();
-            return Result.Ok(_mapper.Map<CustomerDTO>(newCustomer));
+            return Result.Ok(_mapper.Map<CustomerViewDTO>(newCustomer));
         }
 
     }

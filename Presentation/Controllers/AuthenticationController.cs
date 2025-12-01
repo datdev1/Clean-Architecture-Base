@@ -13,12 +13,10 @@ namespace Presentation.Controllers
     public class AuthenticationController : ControllerBase
     {
         private readonly IAuthenticationService _authService;
-        private readonly IMapper _mapper;
 
-        public AuthenticationController(IAuthenticationService authService, IMapper mapper)
+        public AuthenticationController(IAuthenticationService authService)
         {
             _authService = authService;
-            _mapper = mapper;
         }
 
         [HttpPost("login")]

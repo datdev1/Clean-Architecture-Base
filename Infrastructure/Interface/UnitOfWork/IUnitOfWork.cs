@@ -1,11 +1,11 @@
-﻿using Application.Interface.Repository;
+﻿using Infrastructure.Interface.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Interface.UnitOfWork
+namespace Infrastructure.Interface.UnitOfWork
 {
     public interface IUnitOfWork : IDisposable
     {

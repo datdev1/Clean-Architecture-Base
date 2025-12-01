@@ -9,11 +9,11 @@ using System.Threading.Tasks;
 
 namespace Application.Interface.Service
 {
-    public interface IAuthenticationService : IBaseService<Customer>
+    public interface IAuthenticationService
     {
-        Task<Result<CustomerDTO>> Login(CustomerLoginDTO loginDTO);
-        Task<Result<CustomerDTO>> RegisterAsync(CustomerRegisterDTO registerDTO);
+        Task<Result<CustomerViewDTO>> Login(CustomerLoginDTO loginDTO);
+        Task<Result<CustomerViewDTO>> RegisterAsync(CustomerRegisterDTO registerDTO);
 
-        Task<Result<CustomerDTO>> GetByEmailAsync(string email);
+        Task<Result<CustomerViewDTO>> GetByEmailAsync(string email);
     }
 }
