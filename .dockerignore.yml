@@ -1,0 +1,13 @@
+# .dockerignore – PHIÊN BẢN MẠNH NHẤT, LOẠI BỎ HOÀN TOÀN BIN/OBJ
+bin/
+obj/
+**/bin/
+**/obj/
+**/.vs/
+**/.vscode/
+*.user
+*.suo
+*.cache
+*.log
+.vscode/
+.idea/
